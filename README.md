@@ -6,7 +6,7 @@
 *HTML
 *CSS
 
-# Wedbsite
+# Website
 https://kevin-hernandez-garza.github.io/Horiseon-Refactor-Marketing-Site/
 
 ## Contribution
