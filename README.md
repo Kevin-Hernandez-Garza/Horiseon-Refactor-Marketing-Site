@@ -4,8 +4,8 @@
 Horiseon is a marketing company helping thriving businesses get more traffic to their websites, by allowing them to control what people search to find them, and what people can read about them in order to increases their sales.
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 # Website
 https://kevin-hernandez-garza.github.io/Horiseon-Refactor-Marketing-Site/
@@ -17,4 +17,4 @@ https://kevin-hernandez-garza.github.io/Horiseon-Refactor-Marketing-Site/
 ## Contribution
 Made with 💜 by Kevin Hernandez-Garza
 
-## ©️2019 Horiseon Social Solution Services, Inc. 
+## ©️2022 Horiseon Social Solution Services, Inc. 
